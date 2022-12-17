@@ -26,7 +26,7 @@ serde_json = "1.0"
 serde_urlencoded = "0.7.1"
 sled = "0.34.7"
 tauri = {version = "1.2.1", features = ["api-all", "macos-private-api", "system-tray", "wry"] }
-thiserror = "1.0.37"
+thiserror = "1.0.38"
 uuid = {version = "1.2.2", features = ["v4", "fast-rng", "macro-diagnostics"] }# not using
 walkdir = "2.3.2"
 window-shadows = "0.2.0"
