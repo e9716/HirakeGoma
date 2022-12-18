@@ -14,7 +14,7 @@ version = "0.0.2"
 tauri-build = {version = "1.2.1", features = [] }
 
 [dependencies]
-anyhow = "1.0.66"
+anyhow = "1.0.68"
 configparser = "3.0.2"
 exe = "0.5.5"
 directories = "4.0.1"
