@@ -29,7 +29,7 @@ tauri = {version = "1.2.1", features = ["api-all", "macos-private-api", "system-
 thiserror = "1.0.37"
 uuid = {version = "1.2.2", features = ["v4", "fast-rng", "macro-diagnostics"] }# not using
 walkdir = "2.3.2"
-window-shadows = "0.2.0"
+window-shadows = "0.2.1"
 tauri-runtime = "0.12.1"
 window-vibrancy = {version = "0.3.2"}
 log = "0.4.17"
